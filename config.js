@@ -2,7 +2,7 @@ module.exports = {
 OwnerID: ["471402387840434187"],    
 GuildID: "",
 VoiceID: "873621966945402952",
-Token: "ODczNjIxODQwMzIzNTcxNzQz.YQ7FvQ.-PGrgObiSb7Pxcwj1VaHlOTsakU",
+Token: "ODczNjIxODQwMzIzNTcxNzQz.YQ7FvQ.66jVSpCgTlFmX8TLTEFLm2DJJgk",
 Prefix: [".", "/"],
 URL: "https://discord.gg/y6KMbqCWZm",
 
